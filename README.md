@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+| Profile | About Me | Discord | GitHub | Other Links |
+|---------|----------|---------|--------|-------------|
+| <img src="https://github.com/stagewyvern.png" width="50" height="50" style="border-radius: 50%;"> [@Stagewyvern](https://github.com/stagewyvern) | Hey I am Stagewyvern an i like dragons. | [stagewyvern](https://discord.gg/EUtjEWNs4D) | [@stragewyvern](https://github.com/stagewyvern) | [stagewyvern.de](https://stagewyvern.de) [Nextcloud](https://nextcloud.stagewyvern.de) [Panel](https://panel.lstagewyvern.de)|
 <!--
 **stagewyvern/stagewyvern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
