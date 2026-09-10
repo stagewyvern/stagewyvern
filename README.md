@@ -6,7 +6,8 @@
 
 <img src="https://github.com/stagewyvern.png" width="50" height="50" style="border-radius: 50%;">
 
-[@Stagewyvern](https://github.com/stag
+[@Stagewyvern](https://github.com/stagewyvern)
+
 <!--
 **stagewyvern/stagewyvern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
