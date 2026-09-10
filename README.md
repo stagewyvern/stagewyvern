@@ -1,11 +1,12 @@
 ## Hi there 👋
+
 - 🔭 I’m currently working on multiple discord bots and a gameserver panel.
 - 🌱 I’m currently learning JavaScript and go.
 - 📫 How to reach me: Contact me via discord
 
-| Profile | About Me | Discord | GitHub | Other Links |
-|---------|----------|---------|--------|-------------|
-| <img src="https://github.com/stagewyvern.png" width="50" height="50" style="border-radius: 50%;"> [@Stagewyvern](https://github.com/stagewyvern) | Hey I am Stagewyvern an i like dragons. | [stagewyvern](https://discord.gg/EUtjEWNs4D) | [@stragewyvern](https://github.com/stagewyvern) | [stagewyvern.de](https://stagewyvern.de) [Panel](https://panel.stagewyvern.de)|
+<img src="https://github.com/stagewyvern.png" width="50" height="50" style="border-radius: 50%;">
+
+[@Stagewyvern](https://github.com/stag
 <!--
 **stagewyvern/stagewyvern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
